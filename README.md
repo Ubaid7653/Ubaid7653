@@ -1,11 +1,58 @@
-# **<div align="center">Ubaid Ur Rehman</div>**  
-  
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Ubaid-Ur-Rehman</a></b>
+        </samp>
+</h3>
 
-## **<div align="center">Web Developer👋</div>**  
-  
 
-## **<ins>My Skill Set:</ins>**  
+<p align="center"> 
+  <samp>
+    「 I am a full stack web application developer from <b>Pakistan</b> 」
+    <br>
+    <br>
+  </samp>
+</p> 
+<p align="center">
+ <a href="https://6537917c37a6190e4e0732e2--startling-gaufre-579edb.netlify.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://twitter.com/_alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/_alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+<br />
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: ubaid.rehman0426@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Ubaid7653)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
