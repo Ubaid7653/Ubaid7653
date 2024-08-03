@@ -1,11 +1,11 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=ubaidkhan7653&&style=flat-square)  
 
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Ubaid-Ur-Rehman</a></b>
+                <b><a target="_blank" href="#">Ubaid-Ur-Rehman</a></b>
         </samp>
-</h3>
+</h2>
 
 
 <p align="center"> 
@@ -41,20 +41,13 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ubaid.rehman0426@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: uurrehman061@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Ubaid7653)
 
 </p>
-
 <br/>
 <br/>
 <br/>
-
-
-
-
-
-
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
