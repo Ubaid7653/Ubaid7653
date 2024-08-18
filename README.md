@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a full stack web application developer from <b>Pakistan</b> 」
+     I am a full stack Python developer from <b>Pakistan</b> 
     <br>
     <br>
   </samp>
@@ -19,7 +19,7 @@
  <a href="https://6537917c37a6190e4e0732e2--startling-gaufre-579edb.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/%F0%9D%90%94%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%AB-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A1%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%A7-3b4886254/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
