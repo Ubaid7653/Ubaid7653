@@ -1,4 +1,5 @@
-![Profile views counter](https://komarev.com/ghpvc/?username=ubaidkhan7653&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=ubaidkhan7653&&style=flat-square)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/UBAID7653?label=follow&style=social)](https://github.com/UBAID7653)&nbsp;
 
 <!-- Intro  -->
 <h2 align="center">
@@ -7,14 +8,14 @@
         </samp>
 </h2>
 
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-<p align="center"> 
-  <samp>
-     I am a full stack Python developer from <b>Pakistan</b> 
-    <br>
-    <br>
-  </samp>
-</p> 
+</p>
+
+
+
 <p align="center">
  <a href="https://6537917c37a6190e4e0732e2--startling-gaufre-579edb.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
@@ -37,12 +38,35 @@
 </p>
 <br />
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: uurehman061@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Ubaid7653)
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@UBAID7653#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UBAID7653&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+    <a href="https://wakatime.com/@UBAID7653#gh-light-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UBAID7653&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3UBAID7653+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UBAID7653&theme=github_dark&utcOffset=5"  width="31%" alt="@UBAID7653 productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3UBAID7653+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UBAID7653o&theme=github&utcOffset=4"  width="31%" alt="UBAID7653 productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3UBAID7653o+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UBAID7653&theme=github_dark&hide_border=true"  width="64%" alt="@UBAID7653 profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3UBAID7653o+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UBAID7653&theme=github&hide_border=true"  width="64%" alt="@UBAID7653 profile-details"/></a>
+</p>
+
+
+<!-- activity graph heroku-app end -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with B.E Computer Systems Engineering from MUET Jamshoro. I enjoy collaborating with people on works of similar interest.
+
+🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
+✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 
 </p>
 <br/>
@@ -63,3 +87,13 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>  
+
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
