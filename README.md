@@ -62,7 +62,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with B.E Computer Systems Engineering from MUET Jamshoro. I enjoy collaborating with people on works of similar interest.
+💡 &nbsp; Hello everyone,I'm Ubaid Ur Rehman 2024 pass out graduate with B.E Computer Systems Engineering from MUET Jamshoro. I enjoy collaborating with people on works of similar interest.
 
 🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 ✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
